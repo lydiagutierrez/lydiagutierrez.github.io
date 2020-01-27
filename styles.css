@@ -1,0 +1,65 @@
+.jumbotron-index1 { 
+    background-image:url(banner.png);
+    background-size:cover;
+    height: 250px;
+    text-align:center;
+    color:black;
+    text-shadow: 10px;
+    font-weight: bold;
+    }
+  img.banner {height:250px}
+  h1 {font-family: 'Alfa Slab One', cursive;}
+  h2 {
+    font-family: 'Mukta', sans-serif;
+    font-weight: bolder;}
+  .jumbotron-index2 {
+    background-color: white;
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+  }
+  img.dog1 {
+    width: 100%;
+    height: auto;
+  }
+ h1.about {padding-top: 50px;}
+ .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .jumbotron-index3 {
+    background-color: white;
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+  }
+  h3.works2 {
+    text-align:center;
+  }
+
+.jumbotron-foster1 {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    }
+.jumbotron-foster2 {
+    background-color: white;
+    }
+.responsive {
+    width: 100%;
+    height: auto}
+.dog4 {padding-top: 20px;
+}
+
+.jumbotron-signup1 {
+    background-color:aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+h1.signup {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1.foster {
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.jumbotron-signup2 {
+    background-color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif}
